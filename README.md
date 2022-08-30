@@ -1,3 +1,15 @@
+![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=%F0%9F%92%BE%20ABANDONED%20APACHE%20ARCHIVE%20%F0%9F%92%BE&width=1800&height=100)
+
+**Please Note:** The original creators of this application have killed its repository, and have provided a broken link in its place.  This was shortly following its acquisition by Maple Media.  All recovered content was licensed under the *APACHE 2.0* license, or more permissive.  See each repo's license files for specifics.
+
+Note that versions tagged 4.4.2 through 4.5.2 have no differences (besides deletions) from the previous builds.
+
+--------------
+
+--------------
+
+--------------
+
 # Pulse SMS - Desktop
 
 ![preview](artwork/preview.png)
